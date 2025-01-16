@@ -1,2 +1,2 @@
 # learning-projects
-Repo Containing Projects
+Repo Containing Projects can help you master your skills.
